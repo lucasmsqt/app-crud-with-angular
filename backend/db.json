@@ -1,0 +1,24 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Mouse Red Dragon",
+            "price": 115.89
+        },
+        {
+            "id": 2,
+            "name": "Teclado Red Dragon",
+            "price": 255.89
+        },
+        {
+            "id": 3,
+            "name": "Monitor Pichau",
+            "price": 930.35
+        },
+        {
+            "id": 4,
+            "name": "Mochila",
+            "price": "50.00"
+        }
+    ]
+}
